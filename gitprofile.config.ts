@@ -116,7 +116,7 @@ const CONFIG = {
       institution: 'California State University of Stanislaus',
       degree: 'Bachelors Degree in Biology',
       from: '2020',
-      to: '2025,
+      to: '2025',
     },
   ],
   publications: [
