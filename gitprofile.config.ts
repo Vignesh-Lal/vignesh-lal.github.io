@@ -83,20 +83,9 @@ const CONFIG = {
       'https://github.com/Vignesh-Lal/vignesh-lal.github.io/blob/main/LalCV2.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Bioinformatics',
+    'Genetic Biotechnology',
+    'Transcriptomics',
   ],
   experiences: [
     {
@@ -124,16 +113,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'California State University of Stanislaus',
+      degree: 'Bachelors Degree in Biology',
+      from: '2020',
+      to: '2025,
     },
   ],
   publications: [
