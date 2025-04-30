@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Transcriptome De Novo of Black Pepper',
           imageUrl:
-            '',
+            'https://github.com/Vignesh-Lal/vignesh-lal.github.io/blob/main/Screenshot%202025-04-30%20112405.png',
           link: 'https://example.com',
         },
       ],
