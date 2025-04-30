@@ -41,9 +41,9 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'De novo transcriptome profiling unveils the regulation of phenylpropanoid biosynthesis in unripe Piper nigrum berries',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Transcriptome De Novo of Black Pepper',
           imageUrl:
             '',
           link: 'https://example.com',
@@ -70,7 +70,7 @@ const CONFIG = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'arifszn',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -89,9 +89,9 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'California State Unviersity of Stanislaus',
+      position: 'Research Assistant',
+      from: '2024',
       to: 'Present',
       companyLink: 'https://example.com',
     },
