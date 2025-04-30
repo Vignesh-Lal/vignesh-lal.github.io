@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Current uses of AI in biotechnology and the possible future along with softwares used in different feilds.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/Vignesh-Lal/vignesh-lal.github.io/raw/main/Screenshot%202025-04-30%20091945.png',
           link: 'https://example.com',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://github.com/Vignesh-Lal/vignesh-lal.github.io/raw/main/Screenshot%202025-04-30%20091945.png',
+            '',
           link: 'https://example.com',
         },
       ],
