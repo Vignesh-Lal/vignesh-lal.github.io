@@ -29,13 +29,13 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Project',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'AI in Biotechnology',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Current uses of AI in biotechnology and the possible future along with softwares used in different feilds.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
