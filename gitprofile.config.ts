@@ -127,7 +127,7 @@ const CONFIG = {
       authors: 'Ciara Blanco, Vignesh Lal, Evelyn Valdovinos, Alan Vinzant',
       link: 'https://github.com/Vignesh-Lal/vignesh-lal.github.io/raw/main/prokaryotic-eukaryotic_genome%20JGI%20Project%20G6.pdf',
       description:
-        'Phascolarctobacterium faecium was originally isolated from koala feces in 1992. Here, we sequence and analyze the type strain, with a length of 2,317,131 bp, 27 contigs, and average G+C content of 43.73%, and three virulence factors that are potential health hazards to humans.',
+        'Manuscript is in submission. Phascolarctobacterium faecium was originally isolated from koala feces in 1992. Here, we sequence and analyze the type strain, with a length of 2,317,131 bp, 27 contigs, and average G+C content of 43.73%, and three virulence factors that are potential health hazards to humans.',
     },
     {
       title: 'Publication Title',
