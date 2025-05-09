@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['vignesh-lal/Microbiome-Analysis-with-QIIME2-Vignesh-Lal', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['vignesh-lal/Microbiome-Analysis-with-QIIME2-Vignesh-Lal', 'vignesh-lal/Microbiome-Bioinformatics'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
