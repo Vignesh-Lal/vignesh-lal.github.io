@@ -86,6 +86,9 @@ const CONFIG = {
     'Bioinformatics',
     'Genetic Biotechnology',
     'Transcriptomics',
+    'Parasitology',
+    'Microbiome analysis',
+    'Forensics Biotechnology',
   ],
   experiences: [
     {
@@ -93,14 +96,7 @@ const CONFIG = {
       position: 'Research Assistant',
       from: '2024',
       to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
   ],
   certifications: [
@@ -129,15 +125,6 @@ const CONFIG = {
       description:
         'Manuscript is in submission. Phascolarctobacterium faecium was originally isolated from koala feces in 1992. Here, we sequence and analyze the type strain, with a length of 2,317,131 bp, 27 contigs, and average G+C content of 43.73%, and three virulence factors that are potential health hazards to humans.',
     },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: '',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
@@ -154,7 +141,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'forest',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
