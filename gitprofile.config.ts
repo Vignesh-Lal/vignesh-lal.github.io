@@ -101,10 +101,10 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Study Abroad Program',
+      body: 'Cultural and Experiential Learning Course',
+      year: '2025',
+      link: '',
     },
   ],
   educations: [
