@@ -130,7 +130,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology resource Annoucment',
       authors: 'Gerardo Laureano, Vignesh Lal, Laurel Mitchell, Elizabeth Santillan Olea, Joseph Tovar, Ashley Scoles, Alok Arun',
-      link: 'https://github.com/Vignesh-Lal/vignesh-lal.github.io/raw/main/prokaryotic-eukaryotic_genome%20JGI%20Project%20G6.pdf',
+      link: 'https://github.com/Vignesh-Lal/vignesh-lal.github.io/raw/main/MRA00473-25-Manuscript_Text_File.pdf',
       description:
         'Manuscript is in submission. We present a draft metagenome-assembled genome (MAG) of a Rhizobium species 19 derived from the sequenced genome of Vaucheria bursata. The MAG is 89.8% complete, with 4,289 ORFs and 2,002 annotated genes. Investigating its function will enhance understanding of bacteria-algae interactions and their role within the Vaucheria microbiome',
     },
